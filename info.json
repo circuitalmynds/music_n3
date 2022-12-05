@@ -1,5 +1,125 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "jx9egnlxBRk",
+            "name": "You're Twice As Nice As the Girl In My Dreams-jx9egnlxBRk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/You're Twice As Nice As the Girl In My Dreams-jx9egnlxBRk.mp4",
+            "size": 3.7997009999999998,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/You're Twice As Nice As the Girl In My Dreams-jx9egnlxBRk.mp4?raw=true"
+        },
+        {
+            "id": "uWg1lI-A4OM",
+            "name": "Malague\u00f1a (Remastered)-uWg1lI-A4OM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Malague\u00f1a (Remastered)-uWg1lI-A4OM.mp4",
+            "size": 4.835859,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Malague\u00f1a (Remastered)-uWg1lI-A4OM.mp4?raw=true"
+        },
+        {
+            "id": "dDlGNXzmVmI",
+            "name": "Dallas Texas-dDlGNXzmVmI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Dallas Texas-dDlGNXzmVmI.mp4",
+            "size": 3.9067279999999998,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Dallas Texas-dDlGNXzmVmI.mp4?raw=true"
+        },
+        {
+            "id": "U9KQq4b7Wpo",
+            "name": "Finaletto Act II-U9KQq4b7Wpo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Finaletto Act II-U9KQq4b7Wpo.mp4",
+            "size": 6.121563,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Finaletto Act II-U9KQq4b7Wpo.mp4?raw=true"
+        },
+        {
+            "id": "zMeBtd8z9go",
+            "name": "Savage  - Only You [Official Video]-zMeBtd8z9go.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Savage  - Only You [Official Video]-zMeBtd8z9go.mp4",
+            "size": 11.037683999999999,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Savage  - Only You [Official Video]-zMeBtd8z9go.mp4?raw=true"
+        },
+        {
+            "id": "Mj6u7eGwIQ0",
+            "name": "Paul Burkhard (1911-77)  - Der Schuss von der Kanzel (The Hunting Parson), Concert Overture (1946)-Mj6u7eGwIQ0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Paul Burkhard (1911-77)  - Der Schuss von der Kanzel (The Hunting Parson), Concert Overture (1946)-Mj6u7eGwIQ0.mp4",
+            "size": 8.937277,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Paul Burkhard (1911-77)  - Der Schuss von der Kanzel (The Hunting Parson), Concert Overture (1946)-Mj6u7eGwIQ0.mp4?raw=true"
+        },
+        {
+            "id": "75zq3RAKv1Y",
+            "name": "Finaletto Act II, Scene I-75zq3RAKv1Y.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Finaletto Act II, Scene I-75zq3RAKv1Y.mp4",
+            "size": 5.106501,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Finaletto Act II, Scene I-75zq3RAKv1Y.mp4?raw=true"
+        },
+        {
+            "id": "BAO8-b_0v2M",
+            "name": "Liszt - Missa Choralis (S.10) - Gloria-BAO8-b_0v2M.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Liszt - Missa Choralis (S.10) - Gloria-BAO8-b_0v2M.mp4",
+            "size": 3.006896,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Liszt - Missa Choralis (S.10) - Gloria-BAO8-b_0v2M.mp4?raw=true"
+        },
+        {
+            "id": "0h7jEUbD9K8",
+            "name": "Ponta De Areia-0h7jEUbD9K8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Ponta De Areia-0h7jEUbD9K8.mp4",
+            "size": 3.565466,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Ponta De Areia-0h7jEUbD9K8.mp4?raw=true"
+        },
+        {
+            "id": "Y9Io-80f82U",
+            "name": "Blancmange - Lose Your Love (Official Video)-Y9Io-80f82U.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Blancmange - Lose Your Love (Official Video)-Y9Io-80f82U.mp4",
+            "size": 13.625777999999999,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Blancmange - Lose Your Love (Official Video)-Y9Io-80f82U.mp4?raw=true"
+        },
+        {
+            "id": "cZ74Tx_5MtE",
+            "name": "Mediterraneo-cZ74Tx_5MtE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Mediterraneo-cZ74Tx_5MtE.mp4",
+            "size": 3.9407989999999997,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Mediterraneo-cZ74Tx_5MtE.mp4?raw=true"
+        },
+        {
+            "id": "d7i468cnRW4",
+            "name": "Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - VII. Eglogue-d7i468cnRW4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - VII. Eglogue-d7i468cnRW4.mp4",
+            "size": 1.767917,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Liszt - Ann\u00e9es de p\u00e8lerinage I, S. 160 - VII. Eglogue-d7i468cnRW4.mp4?raw=true"
+        },
+        {
+            "id": "GXIb62zt2GI",
+            "name": "Liszt - Missa Choralis (S.10) - Agnus Dei-GXIb62zt2GI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Liszt - Missa Choralis (S.10) - Agnus Dei-GXIb62zt2GI.mp4",
+            "size": 3.90798,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Liszt - Missa Choralis (S.10) - Agnus Dei-GXIb62zt2GI.mp4?raw=true"
+        },
+        {
+            "id": "pL3fXei47eo",
+            "name": "Liszt - Gestorben war ich S.308-pL3fXei47eo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Liszt - Gestorben war ich S.308-pL3fXei47eo.mp4",
+            "size": 1.435111,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Liszt - Gestorben war ich S.308-pL3fXei47eo.mp4?raw=true"
+        },
+        {
+            "id": "nCFDXb2B-aY",
+            "name": "Two Sleepy People-nCFDXb2B-aY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Two Sleepy People-nCFDXb2B-aY.mp4",
+            "size": 2.977891,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Two Sleepy People-nCFDXb2B-aY.mp4?raw=true"
+        },
+        {
+            "id": "zcUAnlfMFe0",
+            "name": "Al Bowlly - Can't We Meet Again-zcUAnlfMFe0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Al Bowlly - Can't We Meet Again-zcUAnlfMFe0.mp4",
+            "size": 5.237403,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Al Bowlly - Can't We Meet Again-zcUAnlfMFe0.mp4?raw=true"
+        },
+        {
+            "id": "Rd0w5uMA_L8",
+            "name": "Paul Paul   Good Times 1984 HD-Rd0w5uMA_L8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/n3/videos/Paul Paul   Good Times 1984 HD-Rd0w5uMA_L8.mp4",
+            "size": 20.206622,
+            "url": "https://github.com/circuitalmynds/music_n3/blob/main/videos/Paul Paul   Good Times 1984 HD-Rd0w5uMA_L8.mp4?raw=true"
+        }
+    ],
+    "total_size": 103.417176
 }
